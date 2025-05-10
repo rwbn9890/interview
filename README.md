@@ -1,6 +1,4 @@
-# 📘 JavaScript and React Interview Questions
-
----
+# 📘 JavaScript  Interview Questions
 
 ## 🔷 JavaScript Topics
 
