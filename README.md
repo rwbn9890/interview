@@ -1,7 +1,5 @@
 # 📘 JavaScript and React Interview Questions
 
-This repository contains a curated list of commonly asked **JavaScript** and **React** interview questions. These notes are helpful for developers preparing for front-end developer interviews or revising core concepts.
-
 ---
 
 ## 🔷 JavaScript Topics
