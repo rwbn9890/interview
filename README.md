@@ -25,3 +25,22 @@
 20. `async/await` with `setTimeout`
 21. `undefined + undefined = NaN`
 22. Split array – `split()`
+
+---
+
+## ⚛️ React Questions
+
+1. How to optimize the performance of a React app?
+2. What is the `render()` method?
+3. What is the difference between `useEffect` and `useLayoutEffect`?
+4. What is React reconciliation?
+5. What is JSX?
+6. What is `useReducer`?
+7. What is the component lifecycle in React?
+8. What is `useMemo`?
+9. What is `useCallback`?
+10. Why do we use custom hooks?
+11. What is `useRef`?
+12. Difference between controlled and uncontrolled components?
+
+---
