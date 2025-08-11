@@ -44,5 +44,6 @@
 12. Difference between controlled and uncontrolled components?
 13. what is caching ?
 14. what is denouncing?
+15. what is React Query ?
 
 ---
