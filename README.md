@@ -42,5 +42,7 @@
 10. Why do we use custom hooks?
 11. What is `useRef`?
 12. Difference between controlled and uncontrolled components?
+13. what is caching ?
+14. what is denouncing?
 
 ---
