@@ -46,5 +46,6 @@
 14. what is denouncing?
 15. what is React Query ?
 16. Explain code splitting & Lazy loading
+17. What is History Function
 
 ---
