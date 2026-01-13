@@ -65,6 +65,7 @@
 24. Rendering `css`?
 25. Virtualisation (react-window etc.)
 26. What are `Service Workers` in React?
+27. Retry Promise 5 times if it's failed and once success
 
 ---
 
